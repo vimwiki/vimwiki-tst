@@ -1,0 +1,11 @@
+*.swp
+*~
+*.gz
+*.tgz
+*.pyc
+*.vba
+*.zip
+
+tests/html/*
+sandbox/wiki/*
+sandbox/html/*
